@@ -1,0 +1,3 @@
+git fetch origin initial-setup
+git merge initial-setup
+git push origin main
